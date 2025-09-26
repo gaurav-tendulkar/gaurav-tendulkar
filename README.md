@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- ```
+ ```json
 {
   "name": "Gaurav Tendulkar",
   "Education": [
