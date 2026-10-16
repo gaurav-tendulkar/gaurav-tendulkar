@@ -1,15 +1,19 @@
 ## Hi there 👋
 
- ```json
+I'm Gaurav C Tendulkar, a software developer focused on building web applications using JavaScript, React.js, Node.js, and PostgreSQL.
+
+```json
 {
   "name": "Gaurav C Tendulkar",
-  "Education": [
+  "education": [
     {
-      "degree": "MSc in Computer Application",
+      "degree": "MSc in Computer Applications",
       "institution": "Fergusson College, Pune",
       "year": "2023 - 2025",
       "cgpa": "7.70",
-      "Project": [Auction Platform Website]
+      "projects": [
+        "Auction Platform Website"
+      ]
     },
     {
       "degree": "BSc in Chemistry",
@@ -18,9 +22,25 @@
       "cgpa": "8.13"
     }
   ],
-  "experience": [internship at SPPU Research Park Foundation],
-  "project": [Digital consultant],
-  "Skills": [JavaScript, Node.js, Express.js, React.js, PostgreSQL, SQL, and REST API],
-  
+  "experience": [
+    {
+      "role": "Web Developer Intern",
+      "organization": "SPPU Research Park Foundation"
+    }
+  ],
+  "projects": [
+    "Digital Consultant"
+  ],
+  "skills": [
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+    "React.js",
+    "PostgreSQL",
+    "SQL",
+    "REST APIs"
+  ]
 }
 ```
+
+
